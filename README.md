@@ -18,6 +18,7 @@ this repository contains my first learning practice on excel analysis
  - data cleaning 
  
  - Analysis
- - 
- 
+
+
+ https://github.com/ajibadelizzy/Caps-project-excel-/blob/main/Amazon%20case%20study.xlsx
     
